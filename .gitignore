@@ -12,3 +12,7 @@ mda.egg-info
 *.swo
 *.npy
 .idea
+
+ai.domain_adaptation.egg-info/
+office31/
+OfficeHomeDataset_10072016/
